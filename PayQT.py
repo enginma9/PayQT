@@ -87,7 +87,7 @@ class MainWindow(QMainWindow):
         if self.H_Radio.isChecked():
             iHourly = amount
         elif self.D_Radio.isChecked():
-            iHourly = amount / 40
+            iHourly = amount / 8
         elif self.W_Radio.isChecked():
             iHourly = amount / 40
         elif self.M_Radio.isChecked():
