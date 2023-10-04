@@ -8,3 +8,4 @@ I just find it handy.
 
 `pip install PyQt5`  
 `git clone https://github.com/enginma9/PayQT.git`  
+then `python PayQT.py` or `python3 PayQT.py`
